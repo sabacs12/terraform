@@ -1,3 +1,7 @@
+//creating key pair and security group
+//creating s3 bucket and cloud front
+
+
 provider "aws" {
 region = "ap-south-1"
 profile = "tabu"
