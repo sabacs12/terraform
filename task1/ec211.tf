@@ -1,3 +1,8 @@
+//Developer have uploded the code into github repo also the repo has some images.
+
+// Copy the github repo code into /var/www/html
+
+
 provider "aws" {
   region = "ap-south-1"
   profile = "tabu"
