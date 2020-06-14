@@ -94,6 +94,6 @@ depends_on = [
   ]
 
 	provisioner "local-exec" {
-	    command = "start chrome  ${aws_instance.myos.public_ip}"
+	    command = "start chrome  ${aws_instance.myos.public_ip}/terra.jpj"
   	}
 }
